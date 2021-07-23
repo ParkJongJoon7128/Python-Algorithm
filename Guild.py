@@ -1,3 +1,5 @@
+# 모험가 길드
+
 num = int(input())
 data = list(map(int, input().split()))
 data.sort()
